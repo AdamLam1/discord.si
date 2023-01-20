@@ -53,4 +53,4 @@ client.on('messageCreate', async function(message){
 
 
 client.login(process.env.DISCORD_TOKEN);
-console.log("Igor Małyszczak jest online.")
+console.log("bot jest online.")
