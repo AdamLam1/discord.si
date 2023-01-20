@@ -1,0 +1,18 @@
+{
+  "name": "discordsi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adamlam",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "fb-chat-api": "^10.4.19",
+    "openai": "^3.1.0",
+    "translate": "^1.4.1"
+  }
+}
